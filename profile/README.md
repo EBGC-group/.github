@@ -1,0 +1,1 @@
+The EcoBioGeoChemistry group at the University of North Texas is an interdisciplinary group of scientists studying the biogeochemistry and ecology of aquatic ecosystems. The group is composed of the lab groups of [Juliana D'Andrilli](), which studies carbon cycling and biogeochemistry and [Jim Junker](), which studies community and food web ecology.
